@@ -28,11 +28,4 @@
     <br><br>
   </div>
 </section>
-  
-<section>
-  <h2>GitHub Stats 🌱</h2>
-    <div>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashswe&theme=vue&show_icons=true&hide_border=true&layout=compact"/> <br><br>
-      <img src="https://github-readme-stats.vercel.app/api?username=ashswe&theme=vue&show_icons=true&hide_border=true&count_private=false" />
-    </div>
-</section>
+

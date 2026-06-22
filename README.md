@@ -11,7 +11,7 @@
 <section>
   <h2>Skills ✨</h2>
   <div>
-    <h3>Proficient In:</h3>
+    <h3>Proficient In/Active Stack:</h3>
     <!-- HTML --!> 
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
     <!-- CSS --!> 
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
     <!-- SQLite --!>
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-    <h3>Familiar With:</h3>
+    <h3>Familiar With/Learning:</h3>
     <!--Angular--!>
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
     <!--JS--!> 
